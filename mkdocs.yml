@@ -91,8 +91,15 @@ markdown_extensions:
 nav:
   - Trang chủ: index.md
   - 🎓 Học:
-      - Foundations:
+      - Foundations (Domain 1):
           - 1.1 Agent vs Script: learn/01-foundations/01-agent-vs-script.md
+          - 1.2 SDLC + agent fits: learn/01-foundations/02-sdlc-where-agent-fits.md
+          - 1.3 Plan / Reason / Action: learn/01-foundations/03-planning-reasoning-action.md
+          - 1.4 Inspectable artifacts: learn/01-foundations/04-inspectable-artifacts.md
+          - 1.5 Autonomy levels L0–L5: learn/01-foundations/05-autonomy-levels.md
+          - 1.6 Human-in-the-loop: learn/01-foundations/06-human-in-the-loop.md
+          - 1.7 5 Anti-patterns: learn/01-foundations/07-anti-patterns.md
+          - 1.8 Recap quiz: learn/01-foundations/08-recap-quiz.md
   - 📚 Tham khảo:
       - Day 2 (long-form, cũ): domains/01-architecture-sdlc/lesson-01-agents-in-sdlc.md
       - Baseline quiz (optional): day-01-baseline.md
