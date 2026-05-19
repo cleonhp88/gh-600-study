@@ -1,8 +1,20 @@
 # GH-600 Study Tracker — GitHub Certified: Agentic AI Developer (beta)
 
-> Started: 2026-05-19
-> Target exam date: _(điền sau khi schedule Pearson VUE)_
-> Passing score: 700/1000 | Duration: 120 min | Language: English only
+!!! info "Thông tin nhanh"
+    - **Bắt đầu**: 2026-05-19
+    - **Exam date**: _(điền sau khi schedule Pearson VUE)_
+    - **Passing score**: 700/1000
+    - **Duration**: 120 phút
+    - **Language**: English only (có thể xin thêm 30 phút nếu không native)
+
+!!! tip "Quy ước học tập song ngữ"
+    Toàn bộ bài học theo format **bilingual**:
+
+    - **English term** — giữ nguyên thuật ngữ tiếng Anh (vì exam chỉ có tiếng Anh, phải quen từ vựng)
+    - 🇻🇳 **Tiếng Việt**: giải thích sâu, ví dụ thực tế, mapping với kinh nghiệm hiện tại
+    - **Code/config**: luôn để English (chuẩn industry, copy-paste được)
+
+    Mục đích: hiểu khái niệm bằng VN → nhận diện được trên exam tiếng Anh.
 
 ---
 
