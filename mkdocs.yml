@@ -1,10 +1,10 @@
 site_name: GH-600 Study — Agentic AI Developer
 site_description: Lộ trình học chứng chỉ GitHub Certified Agentic AI Developer (GH-600 beta)
-site_author: mrleohp88
-site_url: https://mrleohp88.github.io/gh-600-study/
+site_author: cleonhp88
+site_url: https://cleonhp88.github.io/gh-600-study/
 
-repo_name: mrleohp88/gh-600-study
-repo_url: https://github.com/mrleohp88/gh-600-study
+repo_name: cleonhp88/gh-600-study
+repo_url: https://github.com/cleonhp88/gh-600-study
 edit_uri: edit/main/docs/
 
 theme:
@@ -96,7 +96,7 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/mrleohp88
+      link: https://github.com/cleonhp88
   generator: false
 
 copyright: |
