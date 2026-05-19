@@ -92,6 +92,8 @@ nav:
   - Trang chủ: index.md
   - Baseline:
       - Day 1 — Self-assessment: day-01-baseline.md
+  - Domain 1 — Architecture & SDLC:
+      - Day 2 — Agents trong SDLC: domains/01-architecture-sdlc/lesson-01-agents-in-sdlc.md
 
 extra:
   social:
